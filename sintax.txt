@@ -1,0 +1,7 @@
+SINTAX
+
+
+COMMANDS
+
+go run main.go: compila y ejecuta
+go build main.go: compila pero no ejecuta
