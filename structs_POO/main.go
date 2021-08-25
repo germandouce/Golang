@@ -12,6 +12,7 @@ import (
 
 type pepe struct {
 	us.Usuario
+	//podria agregar mas """atrinutos""" aqui
 }
 
 func main() {
