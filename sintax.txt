@@ -1,3 +1,10 @@
+Gral
+** En Go no hay metodos (o procedimientos) y funciones
+lo que determina si es una funcion o un metodo es si 
+devuelve algo o no
+
+**
+
 SINTAX
 
 
